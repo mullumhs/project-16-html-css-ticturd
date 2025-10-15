@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOYUydHct2x2quJ_5mjNFKtk7z9tkWuT8Ifw&s");
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.link {
+    background-color: black;
+    color: white;
+}
+
+.royaleapi {
+    background-color: white;
+    color: black;
+}
