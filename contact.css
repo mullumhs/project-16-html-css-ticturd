@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle&display=swap');
+
+h1 {
+    font-family: "BBH Sans Bartle", sans-serif;
+    font-size: xx-large;
+    color: blue;
+}
+
+h2 {
+    font-family: "BBH Sans Bartle", sans-serif;
+    color: blue;
+}
+
+body {
+    text-align: center;
+    background-color: black
+}
+
+table {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    list-style: none;
+    font-family: "BBH Sans Bartle", sans-serif;
+    background-color: black;
+}
+
+tbody {
+    font-family: "BBH Sans Bartle", sans-serif;
+    font-size: small;
+    color: blue;
+}
+
+form {
+    color: blue;
+}
+
+button {
+    background-color: blue;
+    color: black;
+}
+
+button:hover {
+    border: 5px solid black;
+    transition: all 2s ease;
+    box-shadow: 5px 5px;
+    border-color: white;
+}
